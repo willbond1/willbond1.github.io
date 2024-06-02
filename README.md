@@ -1,4 +1,4 @@
-Welcome to my personal portfolio! This is an index of everything I've published to GitHub (mostly unfinished).  
+Welcome to my personal portfolio! This is an index of everything I've published to GitHub.<br>
 
 # Odin Project
 
